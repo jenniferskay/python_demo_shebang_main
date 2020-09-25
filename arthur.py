@@ -19,7 +19,7 @@ def quip2():
     print ("- Good\n")
 
 def quip3():
-    print ("- Ah, this is obviously some strange useage of")
+    print ("- Ah, this is obviously some strange usage of")
     print ("- the word safe that I wasn't previously")
     print ("- aware of.\n")
 
